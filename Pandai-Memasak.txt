@@ -1,4 +1,4 @@
 Memasak
 -Menonton tutorial memasak
--Melatih memasak setiap hari
 -Membeli bahan yang akan digunakan
+-membuat menu yang berbeda setiap hari
