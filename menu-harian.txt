@@ -1,4 +1,5 @@
 rencana menu
 -pagi
+*Nasi dan telur mata sapi
 -siang
 -malam
