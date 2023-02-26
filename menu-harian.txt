@@ -2,4 +2,6 @@ rencana menu
 -pagi
 *Nasi dan telur mata sapi
 -siang
+*sayur asam dan ayam
 -malam
+*sayur sup dan ikan
